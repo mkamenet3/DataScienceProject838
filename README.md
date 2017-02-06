@@ -8,12 +8,11 @@ will extract data from two movie databases. The first one we take from Kaggle
 data source can be found
 [here](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets) 
 
-We aim to gain insights on:
-- 1) Time trends of movie genres
-  - by Facebook likes
-- 2) Time trends of movie reviews
-  - by reviews (sentiment analysis)
-- 3) Which genre groupings are most likely to be together (cluster analysis)
+Our main research question focuses on our ability to predict the *imdb_score*
+from our *movies_metadata.csv* dataset. We will use the variables in this
+datast in conjunction with the *film.csv* dataset. We will also attempt to
+improve our results by exploring some basic sentiment analysis on our final
+model. 
 
 
 ###Data Extraction and Cleaning
