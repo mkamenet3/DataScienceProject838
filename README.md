@@ -10,14 +10,15 @@ data source can be found
 
 We aim to gain insights on:
 - 1) Time trends of movie genres
-  - by movie gross
   - by Facebook likes
 - 2) Time trends of movie reviews
-  - by reviews
+  - by reviews (sentiment analysis)
 - 3) Which genre groupings are most likely to be together (cluster analysis)
 
 
 ###Data Extraction and Cleaning
 
+Code to perform our data cleaning and merging can be found i the *ETL* folder,
+where the readme details our process.
 
 
