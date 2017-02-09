@@ -1,0 +1,52 @@
+#+TITLE: CS 838: Data Science Group Project: Stage 1
+#+AUTHOR: Yuying Chen, Maria Kamenetsky, Young Lee
+#+OPTIONS: num:nil toc:nil ^:nil
+
+** Summary
+In this stage of the project, we define the data science problem and
+aquire the relevant data from sources. 
+** Problem
+For our project, we will analyze trends from movie databases to
+predict which movies will be successful. In addition to features
+provided by the datasets, we will attempt to extract information from
+movie reviews that may assist with performance of prediction.
+
+In addition, we aim to gain insights on:
+
+1. Time trends of movie genres
+  - by movie gross
+  - by Facebook likes
+2. Time trends of movie reviews
+  - by reviews
+3. Which genre groupings are most likely to be together (cluster analysis)
+
+** Data
+We aquired two datasets in table format (film.csv and
+movie_metadata.csv) and a text data of movie reviews in html
+format. There are common attributes among the three data sources, such
+as title, year, and director, and many more shared by the table
+datasets, although the formatting is not consistent. Each data source
+has key attributes that we believe will help in prediction (see table
+below). 
+
+| Data               | Key attributes                     | Source                             |
+|--------------------+------------------------------------+------------------------------------|
+| [[http://pages.stat.wisc.edu/~younghoon/projects/cs838group/data/raw/film.csv][film.csv]]           | popularity; awards                 | [[https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset][Kaggle]]                             |
+| [[http://pages.stat.wisc.edu/~younghoon/projects/cs838group/data/raw/movie_metadata.csv][movie_metadata.csv]] | IMDB score; Facebook likes;        | [[https://perso.telecom-paristech.fr/eagan/class/igr204/datasets][James Eagan's Visualization Course]] |
+| [[http://pages.stat.wisc.edu/~younghoon/projects/cs838group/data/raw/movie/][reviews]] (text)     | Review sentiment (to be extracted) | [[https://www.cs.cornell.edu/people/pabo/movie-review-data/][Bo Pang - Cornell]]                  |
+
+*** Data extraction
+- Text Data Extraction [[http://pages.stat.wisc.edu/~younghoon/projects/cs838group/stage1/code/extract.html][(link)]]: 
+  - The text data in its raw form consist of about 27,000 html files, with
+    multiple reviews per movie and per reviewer. In order to select the
+    reviews that are relevant to the movies in our table data, we plan
+    to select a subset by matching the movie titles (and randomly
+    selecting around 300). For now, we provided a Python script to parse
+    the HTML file for the title, year, reviewer, and review content.
+
+** Links
+| Page   | URL                                                                       |
+|--------+---------------------------------------------------------------------------|
+| Group  | http://pages.stat.wisc.edu/~younghoon/projects/cs838group/cs838group.html |
+| Github | https://github.com/mkamenet3/DataScienceProject838                        |
+| Course | https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017      |

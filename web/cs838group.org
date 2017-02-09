@@ -1,0 +1,35 @@
+#+TITLE: CS 838: Data Science Group Project
+#+AUTHOR: Yuying Chen, Maria Kamenetsky, Young Lee
+#+OPTIONS: toc:nil num:nil ^:nil
+* Members
+- Young Lee
+- Maria Kamenetsky
+- Yuying Chen
+
+* Project Description
+For our project, we will analyze movie databases and reviews. In
+particular, we plan to predict which movies will be successful based
+on the features of the movies and reviews. We may also explore the
+data in other ways to identify trends, clusters, and interesting
+outliers.
+
+* Progress
+| Stage   | Pdf        | Description                                     | Due  | Status |
+|---------+------------+-------------------------------------------------+------+--------|
+| Stage 0 |            | form team                                       | 1/27 | DONE   |
+| [[./stage1/stage1.org][Stage 1]] | [[./stage1/stage1.pdf][report.pdf]] | define problem; collect data                    | 2/8  | DONE   |
+| Stage 2 |            | extracting structured information from raw data | 2/22 | TODO   |
+| Stage 3 |            | data/schema matching                            | 3/8  |        |
+| Stage 4 |            | combining data into a single set                | 3/29 |        |
+| Stage 5 |            | performing analysis on the integrated data      | TBD  |        |
+
+* Data
+| Data               | Source                                                         | Description                       |
+|--------------------+----------------------------------------------------------------+-----------------------------------|
+| [[./data/raw/film.csv][film.csv]]           | [[https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset][Kaggle]]                                                         |                                   |
+| [[./data/raw/movie_metadata.csv][movie_metadata.csv]] | [[https://perso.telecom-paristech.fr/eagan/class/igr204/datasets]] |                                   |
+| [[http://pages.stat.wisc.edu/~younghoon/projects/cs838group/data/raw/movie/][reviews]] (text)     | https://www.cs.cornell.edu/people/pabo/movie-review-data/      | 27887 movie reviews as html files |
+
+* Links
+| Github | https://github.com/mkamenet3/DataScienceProject838                   |
+| Course | https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017 |
