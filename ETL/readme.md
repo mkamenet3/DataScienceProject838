@@ -1,4 +1,6 @@
-#This folder contains code for cleaning and merging our datasets
+#ETL
+
+This folder contains code for cleaning and merging our datasets
 
 
 ##Notes on the data
