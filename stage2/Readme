@@ -1,0 +1,3 @@
+This folder contains code for stage 2: extracting structured information from raw data.
+
+gen_ex.py: generage examples from row data
