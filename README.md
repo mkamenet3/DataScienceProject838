@@ -1,6 +1,6 @@
 # DataScienceProject838
 This is the repo for our Data Science 838 course. Detailed information about
-the project and progress by stage can be found [here](http://pages.stat.wisc.edu/~younghoon/projects/cs838group/cs838group.html)
+the project and progress by stage can be found [here](https://sites.google.com/site/cs838datascienceprojectmovie/)
 
 ##Project Goals and Scope
 The focus of our project will be to gain insights into movies and trends. We
