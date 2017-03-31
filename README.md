@@ -2,7 +2,7 @@
 This is the repo for our Data Science 838 course. Detailed information about
 the project and progress by stage can be found [here](https://sites.google.com/site/cs838datascienceprojectmovie/)
 
-##Project Goals and Scope
+## Project Goals and Scope
 The focus of our project will be to gain insights into movies and trends. We
 will extract data from two movie databases. The first one we take from Kaggle
 [here](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset). The second
@@ -16,9 +16,17 @@ improve our results by exploring some basic sentiment analysis on our final
 model. 
 
 
-###Data Extraction and Cleaning
+### Data Extraction and Cleaning
 
-Code to perform our data cleaning and merging can be found i the ```ETL``` folder,
+Code to perform our data cleaning and merging can be found in the ```ETL``` folder,
 where the readme details our process.
+
+### Project Stages
+
+Detailed information on project pages can be found on the course website
+[here](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description)
+
+This repo is organized in folders with the respective project stages. Detailed
+information can again be found on the website.
 
 
