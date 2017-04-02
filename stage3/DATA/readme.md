@@ -8,7 +8,7 @@ Our goal in this stage is to match two files on movie title-year. Specifically,
 we aim to create a matcher that achieves precision of at least 90% and recall
 as high as possible.
 
-##Contents Details
+## Contents Details
 
 **Due to the size of these files, the full csv files will instead be available on our project
 website for download

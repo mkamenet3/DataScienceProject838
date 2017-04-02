@@ -1,0 +1,100 @@
+_id,ltable_id,rtable_movieId,ltable_title,ltable_year,ltable_genres,rtable_title,rtable_year,rtable_genres
+0,1026,1,jade,1995,crime|drama|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+1,2053,1,bad boys,1995,action|comedy|crime|drama|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+2,2822,1,clueless,1995,comedy|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+3,4662,1,welcome to the dollhouse,1995,comedy|drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+4,3593,1,the usual suspects,1995,crime|drama|mystery|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+5,1290,1,showgirls,1995,drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+6,5033,1,bang,1995,crime|drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+7,1420,1,species,1995,action|horror|sci-fi|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+8,4191,1,before sunrise,1995,drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+9,656,1,apollo 13,1995,adventure|drama|history,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+10,2961,1,tales from the crypt: demon knight,1995,action|fantasy|horror|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+11,921,1,casino,1995,biography|crime|drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+12,3988,1,friday,1995,comedy|drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+13,3607,1,tales from the hood,1995,comedy|horror|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+14,3480,1,desperado,1995,action|crime|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+15,1561,1,the quick and the dead,1995,action|thriller|western,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+16,3740,1,halloween: the curse of michael myers,1995,horror|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+17,2210,1,copycat,1995,crime|drama|mystery|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+18,2809,1,jefferson in paris,1995,biography|drama|history|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+19,1574,1,mr. holland's opus,1995,drama|music,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+20,2087,1,the bridges of madison county,1995,drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+21,553,1,first knight,1995,action|adventure|romance|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+22,2091,1,the net,1995,action|crime|drama|mystery|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+23,3272,1,richard iii,1995,drama|war,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+24,4857,1,the incredibly true adventure of two girls in love,1995,comedy|drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+25,1585,1,get shorty,1995,comedy|crime|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+26,4985,1,the brothers mcmullen,1995,comedy|drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+27,574,1,braveheart,1995,biography|drama|history|war,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+28,949,1,congo,1995,action|adventure|mystery|sci-fi,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+29,310,1,batman forever,1995,action|adventure|fantasy,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+30,3895,1,leaving las vegas,1995,drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+31,1589,1,toy story,1995,adventure|animation|comedy|family|fantasy,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+32,2786,1,vampire in brooklyn,1995,comedy|fantasy|horror|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+33,2238,1,to die for,1995,comedy|crime|drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+34,704,1,the american president,1995,comedy|drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+35,1601,1,se7en,1995,crime|drama|mystery|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+36,1676,1,virtuosity,1995,action|crime|sci-fi|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+37,4406,1,kids,1995,drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+38,840,1,pocahontas,1995,adventure|animation|drama|family|history|musical|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+39,958,1,outbreak,1995,action|drama|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+40,3915,1,the jerky boys,1995,comedy|crime,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+41,1996,1,tank girl,1995,action|comedy|sci-fi,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+42,77,1,waterworld,1995,action|adventure|sci-fi|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+43,718,1,goldeneye,1995,action|adventure|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+44,848,1,casper,1995,comedy|family|fantasy,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+45,1618,1,babe,1995,comedy|drama|family,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+46,851,1,crimson tide,1995,action|drama|thriller|war,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+47,1108,1,the indian in the cupboard,1995,drama|family|fantasy,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+48,2169,1,mortal kombat,1995,action|adventure|fantasy|sci-fi|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+49,2256,1,home for the holidays,1995,comedy|drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+50,4829,1,the prophecy,1995,action|fantasy|horror|mystery|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+51,351,1,cutthroat island,1995,action|adventure|comedy,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+52,1506,1,the horseman on the roof,1995,adventure|drama|romance|war,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+53,1126,1,nixon,1995,biography|drama|history,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+54,1000,1,assassins,1995,action|crime|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+55,3039,1,dead man walking,1995,crime|drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+56,2536,1,sense and sensibility,1995,drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+57,3437,1,rumble in the bronx,1995,action|comedy,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+58,366,1,die hard with a vengeance,1995,action|adventure|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+59,1598,1,ace ventura: when nature calls,1995,adventure|comedy,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+60,1321,1,hackers,1995,comedy|crime|drama|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+61,1779,1,rob roy,1995,adventure|biography,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+62,3063,1,the perez family,1995,comedy|drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+63,760,1,under siege 2: dark territory,1995,action|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+64,1292,1,kiss of death,1995,action|crime|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+65,635,1,money train,1995,action|comedy|crime|drama|thriller,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+66,2737,1,things to do in denver when you're dead,1995,crime|drama,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+67,3581,1,mallrats,1995,comedy|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+68,1022,1,the scarlet letter,1995,drama|romance,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+69,3922,1,four rooms,1995,comedy|fantasy,Toy Story,1995,Adventure|Animation|Children|Comedy|Fantasy
+70,1026,2,jade,1995,crime|drama|thriller,Jumanji,1995,Adventure|Children|Fantasy
+71,2053,2,bad boys,1995,action|comedy|crime|drama|thriller,Jumanji,1995,Adventure|Children|Fantasy
+72,2822,2,clueless,1995,comedy|romance,Jumanji,1995,Adventure|Children|Fantasy
+73,4662,2,welcome to the dollhouse,1995,comedy|drama,Jumanji,1995,Adventure|Children|Fantasy
+74,3593,2,the usual suspects,1995,crime|drama|mystery|thriller,Jumanji,1995,Adventure|Children|Fantasy
+75,1290,2,showgirls,1995,drama,Jumanji,1995,Adventure|Children|Fantasy
+76,5033,2,bang,1995,crime|drama,Jumanji,1995,Adventure|Children|Fantasy
+77,1420,2,species,1995,action|horror|sci-fi|thriller,Jumanji,1995,Adventure|Children|Fantasy
+78,4191,2,before sunrise,1995,drama|romance,Jumanji,1995,Adventure|Children|Fantasy
+79,656,2,apollo 13,1995,adventure|drama|history,Jumanji,1995,Adventure|Children|Fantasy
+80,2961,2,tales from the crypt: demon knight,1995,action|fantasy|horror|thriller,Jumanji,1995,Adventure|Children|Fantasy
+81,921,2,casino,1995,biography|crime|drama,Jumanji,1995,Adventure|Children|Fantasy
+82,3988,2,friday,1995,comedy|drama,Jumanji,1995,Adventure|Children|Fantasy
+83,3607,2,tales from the hood,1995,comedy|horror|thriller,Jumanji,1995,Adventure|Children|Fantasy
+84,3480,2,desperado,1995,action|crime|thriller,Jumanji,1995,Adventure|Children|Fantasy
+85,1561,2,the quick and the dead,1995,action|thriller|western,Jumanji,1995,Adventure|Children|Fantasy
+86,3740,2,halloween: the curse of michael myers,1995,horror|thriller,Jumanji,1995,Adventure|Children|Fantasy
+87,2210,2,copycat,1995,crime|drama|mystery|thriller,Jumanji,1995,Adventure|Children|Fantasy
+88,2809,2,jefferson in paris,1995,biography|drama|history|romance,Jumanji,1995,Adventure|Children|Fantasy
+89,1574,2,mr. holland's opus,1995,drama|music,Jumanji,1995,Adventure|Children|Fantasy
+90,2087,2,the bridges of madison county,1995,drama|romance,Jumanji,1995,Adventure|Children|Fantasy
+91,553,2,first knight,1995,action|adventure|romance|thriller,Jumanji,1995,Adventure|Children|Fantasy
+92,2091,2,the net,1995,action|crime|drama|mystery|thriller,Jumanji,1995,Adventure|Children|Fantasy
+93,3272,2,richard iii,1995,drama|war,Jumanji,1995,Adventure|Children|Fantasy
+94,4857,2,the incredibly true adventure of two girls in love,1995,comedy|drama|romance,Jumanji,1995,Adventure|Children|Fantasy
+95,1585,2,get shorty,1995,comedy|crime|thriller,Jumanji,1995,Adventure|Children|Fantasy
+96,4985,2,the brothers mcmullen,1995,comedy|drama|romance,Jumanji,1995,Adventure|Children|Fantasy
+97,574,2,braveheart,1995,biography|drama|history|war,Jumanji,1995,Adventure|Children|Fantasy
+98,949,2,congo,1995,action|adventure|mystery|sci-fi,Jumanji,1995,Adventure|Children|Fantasy
