@@ -26,4 +26,14 @@ a window (perhaps within 1 or 2 years). We leave this
 for further exploration.
 
 
+###Timing
+- overlap blocking step: 25.151411594869387
+- get features step: 1.66341188046772
+- extract features from I: 1.7220805879769614
+- matching step - precision: 0.5405771328996707
+- matching step - recall: 0.5123778116430913
+- extract features from J: 0.9315263253015473
+- ML matcher fit (logreg): 0.004608405979070085
+- Prediction from ML Matcher: 0.0023624383898095402
+
 
