@@ -1,0 +1,100 @@
+movieId,title,genres,year
+1,Toy Story,Adventure|Animation|Children|Comedy|Fantasy,1995
+2,Jumanji,Adventure|Children|Fantasy,1995
+3,Grumpier Old Men,Comedy|Romance,1995
+4,Waiting to Exhale,Comedy|Drama|Romance,1995
+5,Father of the Bride Part II,Comedy,1995
+6,Heat,Action|Crime|Thriller,1995
+7,Sabrina,Comedy|Romance,1995
+8,Tom and Huck,Adventure|Children,1995
+9,Sudden Death,Action,1995
+10,GoldenEye,Action|Adventure|Thriller,1995
+11,"American President, The",Comedy|Drama|Romance,1995
+12,Dracula: Dead and Loving It,Comedy|Horror,1995
+13,Balto,Adventure|Animation|Children,1995
+14,Nixon,Drama,1995
+15,Cutthroat Island,Action|Adventure|Romance,1995
+16,Casino,Crime|Drama,1995
+17,Sense and Sensibility,Drama|Romance,1995
+18,Four Rooms,Comedy,1995
+19,Ace Ventura: When Nature Calls,Comedy,1995
+20,Money Train,Action|Comedy|Crime|Drama|Thriller,1995
+21,Get Shorty,Comedy|Crime|Thriller,1995
+22,Copycat,Crime|Drama|Horror|Mystery|Thriller,1995
+23,Assassins,Action|Crime|Thriller,1995
+24,Powder,Drama|Sci-Fi,1995
+25,Leaving Las Vegas,Drama|Romance,1995
+26,Othello,Drama,1995
+27,Now and Then,Children|Drama,1995
+28,Persuasion,Drama|Romance,1995
+29,"City of Lost Children, The (Cití© des enfants perdus, La)",Adventure|Drama|Fantasy|Mystery|Sci-Fi,1995
+30,Shanghai Triad (Yao a yao yao dao waipo qiao),Crime|Drama,1995
+31,Dangerous Minds,Drama,1995
+32,Twelve Monkeys (a.k.a. 12 Monkeys),Mystery|Sci-Fi|Thriller,1995
+33,Wings of Courage,Adventure|Romance|IMAX,1995
+34,Babe,Children|Drama,1995
+35,Carrington,Drama|Romance,1995
+36,Dead Man Walking,Crime|Drama,1995
+37,Across the Sea of Time,Documentary|IMAX,1995
+38,It Takes Two,Children|Comedy,1995
+39,Clueless,Comedy|Romance,1995
+40,"Cry, the Beloved Country",Drama,1995
+41,Richard III,Drama|War,1995
+42,Dead Presidents,Action|Crime|Drama,1995
+43,Restoration,Drama,1995
+44,Mortal Kombat,Action|Adventure|Fantasy,1995
+45,To Die For,Comedy|Drama|Thriller,1995
+46,How to Make an American Quilt,Drama|Romance,1995
+47,Seven (a.k.a. Se7en),Mystery|Thriller,1995
+48,Pocahontas,Animation|Children|Drama|Musical|Romance,1995
+49,When Night Is Falling,Drama|Romance,1995
+50,"Usual Suspects, The",Crime|Mystery|Thriller,1995
+51,Guardian Angel,Action|Drama|Thriller,1994
+52,Mighty Aphrodite,Comedy|Drama|Romance,1995
+53,Lamerica,Adventure|Drama,1994
+54,"Big Green, The",Children|Comedy,1995
+55,Georgia,Drama,1995
+56,Kids of the Round Table,Adventure|Children|Fantasy,1995
+57,Home for the Holidays,Drama,1995
+58,"Postman, The (Postino, Il)",Comedy|Drama|Romance,1994
+59,"Confessional, The (Confessionnal, Le)",Drama|Mystery,1995
+60,"Indian in the Cupboard, The",Adventure|Children|Fantasy,1995
+61,Eye for an Eye,Drama|Thriller,1996
+62,Mr. Holland's Opus,Drama,1995
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Comedy|Crime,1996
+64,Two if by Sea,Comedy|Romance,1996
+65,Bio-Dome,Comedy,1996
+66,Lawnmower Man 2: Beyond Cyberspace,Action|Sci-Fi|Thriller,1996
+67,Two Bits,Drama,1995
+68,French Twist (Gazon maudit),Comedy|Romance,1995
+69,Friday,Comedy,1995
+70,From Dusk Till Dawn,Action|Comedy|Horror|Thriller,1996
+71,Fair Game,Action,1995
+72,Kicking and Screaming,Comedy|Drama,1995
+73,"Misí©rables, Les",Drama|War,1995
+74,Bed of Roses,Drama|Romance,1996
+75,Big Bully,Comedy|Drama,1996
+76,Screamers,Action|Sci-Fi|Thriller,1995
+77,Nico Icon,Documentary,1995
+78,"Crossing Guard, The",Action|Crime|Drama|Thriller,1995
+79,"Juror, The",Drama|Thriller,1996
+80,"White Balloon, The (Badkonake sefid)",Children|Drama,1995
+81,Things to Do in Denver When You're Dead,Crime|Drama|Romance,1995
+82,Antonia's Line (Antonia),Comedy|Drama,1995
+83,Once Upon a Time... When We Were Colored,Drama|Romance,1995
+84,Last Summer in the Hamptons,Comedy|Drama,1995
+85,Angels and Insects,Drama|Romance,1995
+86,White Squall,Action|Adventure|Drama,1996
+87,Dunston Checks In,Children|Comedy,1996
+88,Black Sheep,Comedy,1996
+89,Nick of Time,Action|Thriller,1995
+90,"Journey of August King, The",Drama,1995
+92,Mary Reilly,Drama|Horror|Thriller,1996
+93,Vampire in Brooklyn,Comedy|Horror|Romance,1995
+94,Beautiful Girls,Comedy|Drama|Romance,1996
+95,Broken Arrow,Action|Adventure|Thriller,1996
+96,In the Bleak Midwinter,Comedy|Drama,1995
+97,"Hate (Haine, La)",Crime|Drama,1995
+98,Shopping,Action|Thriller,1994
+99,Heidi Fleiss: Hollywood Madam,Documentary,1995
+100,City Hall,Drama|Thriller,1996

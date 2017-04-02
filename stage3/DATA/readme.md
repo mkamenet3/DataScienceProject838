@@ -10,9 +10,9 @@ as high as possible.
 
 ##Contents Details
 
-**Due to the size of these files, they will instead be available on our project
+**Due to the size of these files, the full csv files will instead be available on our project
 website for download
-[here](https://sites.google.com/site/cs838datascienceprojectmovie/). We apologize for the inconvenience.**
+[here](https://sites.google.com/site/cs838datascienceprojectmovie/). We apologize for the inconvenience. In this repository, we have only included the first 100 observations of each of these for illustration purposes.**
 
 - **A**: *movie1_stage3.csv*
   - Number of tuples in A: 5043
