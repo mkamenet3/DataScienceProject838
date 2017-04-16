@@ -1,0 +1,100 @@
+,_id,ltable_id,rtable_movieId,ltable_title,ltable_year,rtable_title,rtable_year,predicted
+31,31,1589,1,toy story,1995,Toy Story,1995,1
+414,414,1292,6,kiss of death,1995,Heat,1995,1
+432,432,3988,7,friday,1995,Sabrina,1995,1
+673,673,718,10,goldeneye,1995,GoldenEye,1995,1
+734,734,704,11,the american president,1995,"American President, The",1995,1
+825,825,3039,12,dead man walking,1995,Dracula: Dead and Loving It,1995,1
+963,963,1126,14,nixon,1995,Nixon,1995,1
+1031,1031,351,15,cutthroat island,1995,Cutthroat Island,1995,1
+1061,1061,921,16,casino,1995,Casino,1995,1
+1176,1176,2536,17,sense and sensibility,1995,Sense and Sensibility,1995,1
+1259,1259,3922,18,four rooms,1995,Four Rooms,1995,1
+1319,1319,1598,19,ace ventura: when nature calls,1995,Ace Ventura: When Nature Calls,1995,1
+1395,1395,635,20,money train,1995,Money Train,1995,1
+1425,1425,1585,21,get shorty,1995,Get Shorty,1995,1
+1487,1487,2210,22,copycat,1995,Copycat,1995,1
+1594,1594,1000,23,assassins,1995,Assassins,1995,1
+1710,1710,3895,25,leaving las vegas,1995,Leaving Las Vegas,1995,1
+1835,1835,1561,27,the quick and the dead,1995,Now and Then,1995,1
+1876,1876,2536,27,sense and sensibility,1995,Now and Then,1995,1
+2106,2106,5033,31,bang,1995,Dangerous Minds,1995,1
+2355,2355,1618,34,babe,1995,Babe,1995,1
+2433,2433,1126,35,nixon,1995,Carrington,1995,1
+2505,2505,3039,36,dead man walking,1995,Dead Man Walking,1995,1
+2542,2542,2091,37,the net,1995,Across the Sea of Time,1995,1
+2662,2662,2822,39,clueless,1995,Clueless,1995,1
+2752,2752,2091,40,the net,1995,"Cry, the Beloved Country",1995,1
+2823,2823,3272,41,richard iii,1995,Richard III,1995,1
+2904,2904,704,42,the american president,1995,Dead Presidents,1995,1
+3058,3058,2169,44,mortal kombat,1995,Mortal Kombat,1995,1
+3113,3113,2238,45,to die for,1995,To Die For,1995,1
+3255,3255,1601,47,se7en,1995,Seven (a.k.a. Se7en),1995,1
+3328,3328,840,48,pocahontas,1995,Pocahontas,1995,1
+3434,3434,3593,50,the usual suspects,1995,"Usual Suspects, The",1995,1
+3891,3891,4662,57,welcome to the dollhouse,1995,Home for the Holidays,1995,1
+3900,3900,3988,57,friday,1995,Home for the Holidays,1995,1
+3901,3901,3607,57,tales from the hood,1995,Home for the Holidays,1995,1
+3937,3937,2256,57,home for the holidays,1995,Home for the Holidays,1995,1
+4129,4129,1108,60,the indian in the cupboard,1995,"Indian in the Cupboard, The",1995,1
+4221,4221,2222,61,eye for an eye,1996,Eye for an Eye,1996,1
+4270,4270,1574,62,mr. holland's opus,1995,Mr. Holland's Opus,1995,1
+4869,4869,3988,69,friday,1995,Friday,1995,1
+4906,4906,2256,69,home for the holidays,1995,Friday,1995,1
+5008,5008,2254,70,from dusk till dawn,1996,From Dusk Till Dawn,1996,1
+5532,5532,949,77,congo,1995,Nico Icon,1995,1
+5879,5879,2737,81,things to do in denver when you're dead,1995,Things to Do in Denver When You're Dead,1995,1
+6080,6080,3437,84,rumble in the bronx,1995,Last Summer in the Hamptons,1995,1
+6194,6194,1359,86,white squall,1996,White Squall,1996,1
+6672,6672,1064,92,mary reilly,1996,Mary Reilly,1996,1
+6731,6731,2786,93,vampire in brooklyn,1995,Vampire in Brooklyn,1995,1
+6867,6867,2882,94,faithful,1996,Beautiful Girls,1996,1
+6927,6927,667,95,broken arrow,1996,Broken Arrow,1996,1
+7233,7233,1289,100,city hall,1996,City Hall,1996,1
+7336,7336,529,101,the rock,1996,Bottle Rocket,1996,1
+7356,7356,3788,101,bottle rocket,1996,Bottle Rocket,1996,1
+7637,7637,3105,104,happy gilmore,1996,Happy Gilmore,1996,1
+7746,7746,2087,105,the bridges of madison county,1995,"Bridges of Madison County, The",1995,1
+8035,8035,489,108,mars attacks!,1996,Catwalk,1996,1
+8145,8145,574,110,braveheart,1995,Braveheart,1995,1
+8194,8194,4536,111,taxi driver,1976,Taxi Driver,1976,1
+8255,8255,3437,112,rumble in the bronx,1995,Rumble in the Bronx (Hont faan kui),1995,1
+8281,8281,3368,113,a thin line between love and hate,1996,Before and After,1996,1
+8292,8292,1860,113,blood and wine,1996,Before and After,1996,1
+8365,8365,4862,113,love and other catastrophes,1996,Before and After,1996,1
+8822,8822,529,120,the rock,1996,Race the Sun,1996,1
+8827,8827,4213,120,get on the bus,1996,Race the Sun,1996,1
+8853,8853,2910,120,the funeral,1996,Race the Sun,1996,1
+8860,8860,880,120,the fan,1996,Race the Sun,1996,1
+8866,8866,1143,120,the juror,1996,Race the Sun,1996,1
+8951,8951,1159,122,boomerang,1992,Boomerang,1992,1
+9169,9169,3489,125,flirting with disaster,1996,Flirting With Disaster,1996,1
+9292,9292,1612,127,legends of the fall,1994,"Silences of the Palace, The (Saimt el Qusur)",1994,1
+9379,9379,4213,129,get on the bus,1996,Pie in the Sky,1996,1
+9412,9412,880,129,the fan,1996,Pie in the Sky,1996,1
+9413,9413,750,129,jingle all the way,1996,Pie in the Sky,1996,1
+9473,9473,5033,130,bang,1995,Angela,1995,1
+9497,9497,3895,130,leaving las vegas,1995,Angela,1995,1
+9607,9607,1026,132,jade,1995,Jade,1995,1
+10008,10008,2091,137,the net,1995,Man of the Year,1995,1
+10033,10033,1108,137,the indian in the cupboard,1995,Man of the Year,1995,1
+10038,10038,1506,137,the horseman on the roof,1995,Man of the Year,1995,1
+10194,10194,1022,139,the scarlet letter,1995,Target,1995,1
+10220,10220,1860,140,blood and wine,1996,Up Close and Personal,1996,1
+10266,10266,756,140,up close & personal,1996,Up Close and Personal,1996,1
+10521,10521,4985,144,the brothers mcmullen,1995,"Brothers McMullen, The",1995,1
+10566,10566,2053,145,bad boys,1995,Bad Boys,1995,1
+10908,10908,656,150,apollo 13,1995,Apollo 13,1995,1
+11030,11030,1779,151,rob roy,1995,Rob Roy,1995,1
+11138,11138,310,153,batman forever,1995,Batman Forever,1995,1
+11189,11189,5033,155,bang,1995,Beyond Rangoon,1995,1
+11300,11300,1108,156,the indian in the cupboard,1995,Blue in the Face,1995,1
+11310,11310,3437,156,rumble in the bronx,1995,Blue in the Face,1995,1
+11407,11407,3480,158,desperado,1995,Casper,1995,1
+11437,11437,848,158,casper,1995,Casper,1995,1
+11453,11453,1321,158,hackers,1995,Casper,1995,1
+11523,11523,1321,159,hackers,1995,Clockers,1995,1
+11561,11561,949,160,congo,1995,Congo,1995,1
+11649,11649,851,161,crimson tide,1995,Crimson Tide,1995,1
+11741,11741,3480,163,desperado,1995,Desperado,1995,1
+11771,11771,848,163,casper,1995,Desperado,1995,1
