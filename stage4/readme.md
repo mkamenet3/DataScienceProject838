@@ -28,7 +28,7 @@ We follow the format of the previous stage where we have:
 table itself.
 
 
-Due to the size of the data, in the **DAA** directory, we only present the
+Due to the size of the data, in the **DATA** directory, we only present the
 first 100 observations. The full data set can be found on our website
 [here]<https://sites.google.com/site/cs838datascienceprojectmovie/>
 
