@@ -12,4 +12,5 @@ Details on **Magellan** can be found
 [here](http://anhaidgroup.github.io/py_entitymatching/v0.1.x/user_manual/guides.html)
 
 
-
+*Update*: In stage 4, we apply the ML classifier identified in this stage to
+the entire universe of candidate set C. Please go to the ```stage4``` directory for more details.
