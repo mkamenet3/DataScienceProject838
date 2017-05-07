@@ -31,5 +31,21 @@ Due to the size of the data, in the **DATA** directory, we only present the
 first 100 observations. The full data set can be found on our website
 [here]<https://sites.google.com/site/cs838datascienceprojectmovie/>
 
+## Insights
+
+Our initial insights on this dataset:
+
+- data for 2015 appears to incomplete (anomaly year)
+- more information is needed on how data was collected. Early 2000's data show much fewer movies being made. Is this an artificat of the selection criteria in creating the dataset or is that accurate?
+- boost in movies coming out between 2008 - 2013
+- largest group by genre is drama, followed by romance-comedy; action-adventure is a smaller portion than expected
+- The highest grossing movie in the dataset is Avatar followed by Avengers. Least grossing movies are Pride and The Hire:Chosen
+- It looks like there has been a slight uptick in fmaily-children films and and also fantasy/scifi. 
+- romance-comedy and family-children appear to be the genres which vary the least in terms of gross sales.
+- No correlation identified between gross sales and facebook likes/imdb score nor imdb_score and facebook likes.
+- There appears to be no relationship between imdb_score and grossnum until 2012 and later, when there is a reasonable positive relationship between the two.
+- cast_total_facebook_likes on average have been steadily increasing, giving evidence to our earlier theory that much of this can be driven by the increasing prominence and use of IMDB as a review website and database. 
+
+Details about insights along with challenges and future work can be found in **Analysis.ipynb** inside the ```CODE``` folder. Please visit our website for more details.
 
 
