@@ -18,7 +18,7 @@ The goal is to create:
 If you have more time, what would you propose you can do next? 
 
 
-##What's in the folder
+## What's in the folder
 
 We follow the format of the previous stage:
 
