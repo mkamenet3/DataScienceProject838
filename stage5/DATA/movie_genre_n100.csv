@@ -1,0 +1,100 @@
+lid,rid,title,year,genres,gross
+1,72998,Avatar,2009,sci-fi,760505847
+1,72998,Avatar,2009,action,760505847
+1,72998,Avatar,2009,fantasy,760505847
+1,72998,Avatar,2009,imax,760505847
+1,72998,Avatar,2009,adventure,760505847
+2,53125,Pirates of the Caribbean: At World's End,2007,comedy,309404152
+2,53125,Pirates of the Caribbean: At World's End,2007,adventure,309404152
+2,53125,Pirates of the Caribbean: At World's End,2007,action,309404152
+2,53125,Pirates of the Caribbean: At World's End,2007,fantasy,309404152
+3,127216,Unexpected,2015,drama,200074175
+3,127216,Unexpected,2015,action,200074175
+3,127216,Unexpected,2015,thriller,200074175
+3,127216,Unexpected,2015,comedy,200074175
+3,127216,Unexpected,2015,adventure,200074175
+4,91529,"Dark Knight Rises, The",2012,action,448130642
+4,91529,"Dark Knight Rises, The",2012,thriller,448130642
+4,91529,"Dark Knight Rises, The",2012,imax,448130642
+4,91529,"Dark Knight Rises, The",2012,adventure,448130642
+4,91529,"Dark Knight Rises, The",2012,crime,448130642
+5,,star wars: episode vii - the force awakens,.,documentary,.
+6,93363,John Carter,2012,imax,73058679
+6,93363,John Carter,2012,adventure,73058679
+6,93363,John Carter,2012,action,73058679
+6,93363,John Carter,2012,sci-fi,73058679
+7,51933,Pride,2007,adventure,336530303
+7,51933,Pride,2007,action,336530303
+7,51933,Pride,2007,romance,336530303
+7,51933,Pride,2007,drama,336530303
+8,81229,Red,2010,family,200807262
+8,81229,Red,2010,animation,200807262
+8,81229,Red,2010,action,200807262
+8,81229,Red,2010,romance,200807262
+8,81229,Red,2010,comedy,200807262
+8,81229,Red,2010,musical,200807262
+8,81229,Red,2010,fantasy,200807262
+8,81229,Red,2010,adventure,200807262
+9,,avengers: age of ultron,2015,action,458991599
+9,,avengers: age of ultron,2015,adventure,458991599
+9,,avengers: age of ultron,2015,sci-fi,458991599
+10,69844,Harry Potter and the Half-Blood Prince,2009,family,301956980
+10,69844,Harry Potter and the Half-Blood Prince,2009,romance,301956980
+10,69844,Harry Potter and the Half-Blood Prince,2009,mystery,301956980
+10,69844,Harry Potter and the Half-Blood Prince,2009,fantasy,301956980
+10,69844,Harry Potter and the Half-Blood Prince,2009,imax,301956980
+10,69844,Harry Potter and the Half-Blood Prince,2009,adventure,301956980
+11,,batman v superman: dawn of justice,2016,action,330249062
+11,,batman v superman: dawn of justice,2016,adventure,330249062
+11,,batman v superman: dawn of justice,2016,sci-fi,330249062
+12,46530,Superman Returns,2006,imax,200069408
+12,46530,Superman Returns,2006,adventure,200069408
+12,46530,Superman Returns,2006,action,200069408
+12,46530,Superman Returns,2006,sci-fi,200069408
+13,63113,Quantum of Solace,2008,adventure,168368427
+13,63113,Quantum of Solace,2008,action,168368427
+13,63113,Quantum of Solace,2008,thriller,168368427
+14,45722,Pirates of the Caribbean: Dead Man's Chest,2006,adventure,423032628
+14,45722,Pirates of the Caribbean: Dead Man's Chest,2006,action,423032628
+14,45722,Pirates of the Caribbean: Dead Man's Chest,2006,fantasy,423032628
+15,103384,"Lone Ranger, The",2013,adventure,89289910
+15,103384,"Lone Ranger, The",2013,action,89289910
+15,103384,"Lone Ranger, The",2013,imax,89289910
+15,103384,"Lone Ranger, The",2013,western,89289910
+16,103042,Man of Steel,2013,sci-fi,291021565
+16,103042,Man of Steel,2013,action,291021565
+16,103042,Man of Steel,2013,fantasy,291021565
+16,103042,Man of Steel,2013,imax,291021565
+16,103042,Man of Steel,2013,adventure,291021565
+17,59501,"Chronicles of Narnia: Prince Caspian, The",2008,family,141614023
+17,59501,"Chronicles of Narnia: Prince Caspian, The",2008,children,141614023
+17,59501,"Chronicles of Narnia: Prince Caspian, The",2008,action,141614023
+17,59501,"Chronicles of Narnia: Prince Caspian, The",2008,fantasy,141614023
+17,59501,"Chronicles of Narnia: Prince Caspian, The",2008,adventure,141614023
+18,89745,"Avengers, The",2012,imax,623279547
+18,89745,"Avengers, The",2012,adventure,623279547
+18,89745,"Avengers, The",2012,action,623279547
+18,89745,"Avengers, The",2012,sci-fi,623279547
+19,86880,Pirates of the Caribbean: On Stranger Tides,2011,adventure,241063875
+19,86880,Pirates of the Caribbean: On Stranger Tides,2011,action,241063875
+19,86880,Pirates of the Caribbean: On Stranger Tides,2011,imax,241063875
+19,86880,Pirates of the Caribbean: On Stranger Tides,2011,fantasy,241063875
+20,92422,"Woman in Black, The",2012,family,179020854
+20,92422,"Woman in Black, The",2012,drama,179020854
+20,92422,"Woman in Black, The",2012,sci-fi,179020854
+20,92422,"Woman in Black, The",2012,action,179020854
+20,92422,"Woman in Black, The",2012,thriller,179020854
+20,92422,"Woman in Black, The",2012,comedy,179020854
+20,92422,"Woman in Black, The",2012,fantasy,179020854
+20,92422,"Woman in Black, The",2012,adventure,179020854
+20,92422,"Woman in Black, The",2012,horror,179020854
+21,118696,The Hobbit: The Battle of the Five Armies,2014,adventure,255108370
+21,118696,The Hobbit: The Battle of the Five Armies,2014,fantasy,255108370
+22,95510,"Amazing Spider-Man, The",2012,sci-fi,262030663
+22,95510,"Amazing Spider-Man, The",2012,action,262030663
+22,95510,"Amazing Spider-Man, The",2012,fantasy,262030663
+22,95510,"Amazing Spider-Man, The",2012,imax,262030663
+22,95510,"Amazing Spider-Man, The",2012,adventure,262030663
+23,75395,Frozen,2010,drama,105219735
+23,75395,Frozen,2010,history,105219735
+23,75395,Frozen,2010,action,105219735
