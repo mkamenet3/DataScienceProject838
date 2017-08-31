@@ -1,4 +1,4 @@
-# DataScienceProject838
+# CS838(Data Science Principles)-Project
 This is the repo for our Data Science 838 course. Detailed information about
 the project and progress by stage can be found [here](https://sites.google.com/site/cs838datascienceprojectmovie/)
 
